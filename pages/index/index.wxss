@@ -1,0 +1,6 @@
+
+progress{
+  width: 100%;
+  font-size: 30rpx;
+  height: 60rpx;
+}
